@@ -3,6 +3,7 @@
 This template should help get you started developing with Tauri, React and ReScript in Vite.
 
 Don't forget to customise the name and namespace in configuration files.
+
 Also don't forget to customise license and readme files.
 
 ## Recommended IDE Setup
